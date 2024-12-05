@@ -19638,7 +19638,7 @@
 		"react-dom": "16.8.4",
 		"signal-utils": "0.20.0",
 		"slug": "10.0.0",
-		"sortablejs": "1.15.0"
+		"sortablejs": "1.15.3"
 	},
 	"devDependencies": {
 		"@eamodio/eslint-lite-webpack-plugin": "0.1.0",
