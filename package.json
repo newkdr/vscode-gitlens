@@ -19635,7 +19635,7 @@
 		"os-browserify": "0.3.0",
 		"path-browserify": "1.0.1",
 		"react": "16.8.4",
-		"react-dom": "16.8.4",
+		"react-dom": "16.14.0",
 		"signal-utils": "0.20.0",
 		"slug": "10.0.0",
 		"sortablejs": "1.15.0"
