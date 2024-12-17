@@ -19617,7 +19617,7 @@
 		"@octokit/graphql": "8.1.1",
 		"@octokit/request": "9.1.3",
 		"@octokit/request-error": "6.1.5",
-		"@octokit/types": "13.6.1",
+		"@octokit/types": "13.6.2",
 		"@opentelemetry/api": "1.9.0",
 		"@opentelemetry/exporter-trace-otlp-http": "0.54.2",
 		"@opentelemetry/resources": "1.27.0",
