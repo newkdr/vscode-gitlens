@@ -19619,7 +19619,7 @@
 		"@octokit/request-error": "6.1.5",
 		"@octokit/types": "13.6.2",
 		"@opentelemetry/api": "1.9.0",
-		"@opentelemetry/exporter-trace-otlp-http": "0.54.2",
+		"@opentelemetry/exporter-trace-otlp-http": "0.56.0",
 		"@opentelemetry/resources": "1.28.0",
 		"@opentelemetry/sdk-trace-base": "1.27.0",
 		"@opentelemetry/semantic-conventions": "1.28.0",
